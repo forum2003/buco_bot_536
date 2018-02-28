@@ -1,0 +1,32 @@
+{
+  "name": "buco_bot_536",
+  "version": "1.0.0",
+  "description": "BUCO 536 Team Utah Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forum2003/buco_bot_536.git"
+  },
+  "keywords": [
+    "bot",
+    "chat",
+    "chatbot",
+    "student",
+    "facebook",
+    "fb"
+  ],
+  "author": "Brent Porter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forum2003/buco_bot_536/issues"
+  },
+  "homepage": "https://github.com/forum2003/buco_bot_536#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
